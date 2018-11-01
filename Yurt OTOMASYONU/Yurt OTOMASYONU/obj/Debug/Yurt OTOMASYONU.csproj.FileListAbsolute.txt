@@ -1,0 +1,100 @@
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.exe.config
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.exe
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.pdb
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrKayit.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.Properties.Resources.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.exe
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.pdb
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmBolumler.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmAnaForm.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOdemeler.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.VBIDE.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.ResolveComReference.cache
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrListe.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrDuzenle.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGider.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGiderlerListesi.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGiderGuncelle.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGelirIstatislik.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmAdminGiris.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmSifreGuncelle.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmPersonelGuncelle.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmNotekle.resources
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\microsoft.reportviewer.winforms.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\ADODB.dll
+C:\Users\Asus\source\repos\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrenciRapor.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.exe.config
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.exe
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.pdb
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\microsoft.reportviewer.winforms.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\ADODB.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.VBIDE.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.ResolveComReference.cache
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmAdminGiris.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmAnaForm.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmBolumler.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGelirIstatislik.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGider.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGiderGuncelle.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGiderlerListesi.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmNotekle.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOdemeler.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrDuzenle.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrenciRapor.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrKayit.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrListe.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmPersonelGuncelle.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmSifreGuncelle.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.exe
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Yurt OTOMASYONU.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\microsoft.reportviewer.winforms.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\ADODB.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.VBIDE.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.ResolveComReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmAdminGiris.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmAnaForm.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmBolumler.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGelirIstatislik.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGider.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGiderGuncelle.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmGiderlerListesi.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmNotekle.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOdemeler.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrDuzenle.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrenciRapor.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrKayit.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmOgrListe.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmPersonelGuncelle.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.FrmSifreGuncelle.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt_OTOMASYONU.Properties.Resources.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.csproj.CopyComplete
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Yurt OTOMASYONU\Yurt OTOMASYONU\obj\Debug\Yurt OTOMASYONU.pdb
